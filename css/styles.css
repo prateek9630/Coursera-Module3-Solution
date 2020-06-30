@@ -8,7 +8,7 @@ body{
 /** HEADER **/
 #header-nav {
   height: 65px;
-  background-color: #B0171F;   
+  background-color: #3ddfc1;   
   border-radius: 0;
   border: 0;
   margin: 0;
@@ -35,7 +35,7 @@ body{
   margin-top: 0;
 }
 li{
-  background-color: #FFFFCD;
+  background-color: #fafa69;
   margin:0;
 }
 
@@ -74,7 +74,7 @@ section {
   margin: 10px;
   border: 1px solid black;
   height: auto;
-  background-color: #ff9912;
+  background-color: #d1ed60;
   padding-left: 10px;
   padding-right: 10px;
 }
